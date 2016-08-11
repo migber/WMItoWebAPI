@@ -1,0 +1,4 @@
+E:\C#academy'16\MB_Final_1\SendToWebAPI\bin\Debug\SendToWebAPI.dll
+E:\C#academy'16\MB_Final_1\SendToWebAPI\bin\Debug\SendToWebAPI.pdb
+E:\C#academy'16\MB_Final_1\SendToWebAPI\obj\Debug\SendToWebAPI.dll
+E:\C#academy'16\MB_Final_1\SendToWebAPI\obj\Debug\SendToWebAPI.pdb

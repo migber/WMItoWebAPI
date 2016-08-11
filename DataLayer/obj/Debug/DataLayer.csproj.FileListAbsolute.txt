@@ -1,0 +1,5 @@
+E:\C#academy'16\MB_Final_1\DataLayer\bin\Debug\DataLayer.dll
+E:\C#academy'16\MB_Final_1\DataLayer\bin\Debug\DataLayer.pdb
+E:\C#academy'16\MB_Final_1\DataLayer\obj\Debug\DataLayer.dll
+E:\C#academy'16\MB_Final_1\DataLayer\obj\Debug\DataLayer.pdb
+E:\C#academy'16\MB_Final_1\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache

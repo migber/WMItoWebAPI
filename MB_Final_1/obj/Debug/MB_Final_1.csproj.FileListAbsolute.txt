@@ -1,0 +1,12 @@
+E:\C#academy'16\MB_Final_1\MB_Final_1\bin\Debug\MB_Final_1.exe.config
+E:\C#academy'16\MB_Final_1\MB_Final_1\obj\Debug\MB_Final_1.csprojResolveAssemblyReference.cache
+E:\C#academy'16\MB_Final_1\MB_Final_1\bin\Debug\MB_Final_1.exe
+E:\C#academy'16\MB_Final_1\MB_Final_1\bin\Debug\MB_Final_1.pdb
+E:\C#academy'16\MB_Final_1\MB_Final_1\bin\Debug\DataLayer.dll
+E:\C#academy'16\MB_Final_1\MB_Final_1\bin\Debug\DataLayer.pdb
+E:\C#academy'16\MB_Final_1\MB_Final_1\obj\Debug\MB_Final_1.exe
+E:\C#academy'16\MB_Final_1\MB_Final_1\obj\Debug\MB_Final_1.pdb
+E:\C#academy'16\MB_Final_1\MB_Final_1\bin\Debug\Newtonsoft.Json.dll
+E:\C#academy'16\MB_Final_1\MB_Final_1\bin\Debug\SendToWebAPI.dll
+E:\C#academy'16\MB_Final_1\MB_Final_1\bin\Debug\SendToWebAPI.pdb
+E:\C#academy'16\MB_Final_1\MB_Final_1\bin\Debug\Newtonsoft.Json.xml
